@@ -1,1 +1,2 @@
 # leaf-disease-detection
+In this project, I created a powerful deep-learning model for 38 different classes of images. Using Streamlit, I developed a web application for plant disease recognition. This application leverages the plant disease recognition model I built earlier. Additionally, I explored how to rapidly create a user interface for the web application and integrate the machine learning/deep learning model into it.
